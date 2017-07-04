@@ -36,3 +36,11 @@
 .image-responsive img {
   width: 100%;
 }
+
+.navbar ul.nav li a {
+  text-decoration: none;
+}
+
+.navbar ul.nav li a.special {
+  color: maroon;
+}
