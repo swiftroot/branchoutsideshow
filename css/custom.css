@@ -44,3 +44,7 @@
 .navbar ul.nav li a.special {
   color: maroon;
 }
+
+p.lead {
+  color: black;
+}
